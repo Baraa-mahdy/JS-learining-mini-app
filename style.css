@@ -1,0 +1,28 @@
+body{
+background: linear-gradient(to right, #00AAFF, #00FF6C);
+margin-left: 700px;
+margin-top: 80px;
+}
+
+.topic{
+position: absolute;
+right: 580px;
+bottom: 700px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.i1{
+    width: 200px;
+    height: 25px;
+    margin-top: 70px;
+    margin-left: -50px;
+    border: none;
+    border-radius: 10px;
+}
+
+.b1{
+    width: 90px;
+    height: 30px;
+    border: none;
+    border-radius: 100px;
+}
